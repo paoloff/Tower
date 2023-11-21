@@ -1,4 +1,4 @@
-from classes_v2 import *
+from classes import *
 import matplotlib.pyplot as plt
 import os
 os.environ["KMP_DUPLICATE_LIB_OK"] = "TRUE"
